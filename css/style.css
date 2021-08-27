@@ -1,0 +1,21 @@
+body {
+    background: #34495e;
+}
+p {
+    line-height: 40px;
+    font-size: 1.5rem;
+    text-align: center;
+    color: antiquewhite;
+}
+h1 {
+    text-align: center;
+    color: tomato;
+    -webkit-text-stroke: 2px red;
+    font-size: 5rem;
+}
+img {
+    
+width: 300px;
+position: absolute;
+left: 38%;
+}
